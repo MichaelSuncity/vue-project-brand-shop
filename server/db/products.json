@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "imageName": "product1.jpg",
+    "name": "Mango People T-shirt",
+    "price": 52,
+    "size": ["xxs", "xs", "s", "m", "l", "xl", "xxl"]
+  },
+  {
+    "id": 2,
+    "imageName": "product2.jpg",
+    "name": "Mango People Blouse",
+    "price": 68,
+    "size": ["xs"]
+  },
+  {
+    "id": 3,
+    "imageName": "product3.jpg",
+    "name": "Mango People Jacket",
+    "price": 48,
+    "size": ["xxs", "xl", "xxl"]
+  },
+  {
+    "id": 4,
+    "imageName": "product4.jpg",
+    "name": "Mango People Dress",
+    "price": 37,
+    "size": ["l"]
+  },
+  {
+    "id": 5,
+    "imageName": "product5.jpg",
+    "name": "Mango People Dress",
+    "price": 67,
+    "size": ["s", "m"]
+  },
+  {
+    "id": 6,
+    "imageName": "product6.jpg",
+    "name": "Mango People Blazer",
+    "price": 62,
+    "size": ["xxl"]
+  },
+  {
+    "id": 7,
+    "imageName": "product7.jpg",
+    "name": "Mango People Pants",
+    "price": 75,
+    "size": ["s"]
+  },
+  {
+    "id": 8,
+    "imageName": "product8.jpg",
+    "name": "Mango People Sweatshirt",
+    "price": 45,
+    "size": ["m"]
+  },
+  {
+    "id": 9,
+    "imageName": "product9.jpg",
+    "name": "Mango People Sweatshirt",
+    "price": 45,
+    "size": ["s", "m", "l"]
+  }
+]
